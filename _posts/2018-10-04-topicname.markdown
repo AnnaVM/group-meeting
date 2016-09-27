@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Topic TBD -- Speaker
+title: Topic TBD -- Speaker 1
 comments: true
 category: upcoming
 tags: meeting <+ tags +>
