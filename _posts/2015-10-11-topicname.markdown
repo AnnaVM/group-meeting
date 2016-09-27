@@ -2,11 +2,12 @@
 layout: post
 title: Topic TBD -- Speaker
 comments: true
+description: a description at the top
 category: past
 tags: meeting <+ tags +>
 ---
 
-## Presenters
+## 1st presentation
 ### Name1
 ### Name2
 
